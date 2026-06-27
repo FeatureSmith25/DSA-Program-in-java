@@ -35,7 +35,7 @@ public class merging_soted_array_using_magic {
     }
 
     public static void main(String[] args) {
-        int[] arr = { 5, 2, 8, 4, 1, 6, 7 };
+        int arr[]={12,15,11,33,21,22,6};
         merge_sort(arr);
         for (int ele : arr) {
             System.out.print(ele + " ");
