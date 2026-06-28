@@ -31,7 +31,6 @@ public class merging_soted_array_using_magic {
         merge_sort(a);
         merge_sort(b);
         merge(a, b, arr);
-
     }
 
     public static void main(String[] args) {
