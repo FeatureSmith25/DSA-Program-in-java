@@ -1,8 +1,8 @@
-public class pokemon{
+class pokemon{
         int power;
         int defence;
         String type;
-        pokem on(String t, int p){
+        pokemon(String t, int p){
             power = p;
             type = t;
         }
